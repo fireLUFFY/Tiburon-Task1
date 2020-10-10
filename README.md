@@ -1,6 +1,6 @@
 # Tiburon-Task1
 
-full_sub --->   Full Subtractor
-tb --->  Testbench Code
-gl --->  Gate Level Model
-df --->  Data Flow Model
+1.full_sub --->   Full Subtractor
+2.tb --->  Testbench Code
+3.gl --->  Gate Level Model
+4.df --->  Data Flow Model
